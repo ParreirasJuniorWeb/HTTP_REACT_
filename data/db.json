@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "teclado",
+      "price": "R$110,00"
+    },
+    {
+      "id": 2,
+      "name": "Mouse",
+      "price": "R$90,00"
+    },
+    {
+      "id": 3,
+      "name": "Monitor",
+      "price": "R$120,00"
+    },
+    {
+      "id": "b203",
+      "name": "HD",
+      "price": "R$200,00"
+    },
+    {
+      "id": "a01a",
+      "name": "Memória RAM",
+      "price": "R$ 220,99"
+    },
+    {
+      "id": "120c",
+      "name": "TESTE",
+      "price": "R$ 1800,90"
+    },
+    {
+      "id": "74db",
+      "name": "TESTE 02",
+      "price": "R$ 5678,99"
+    },
+    {
+      "id": "c0f0",
+      "name": "TESTE 02",
+      "price": "R$ 5678,99"
+    }
+  ]
+}
